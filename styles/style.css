@@ -9,9 +9,9 @@
 }
 
 :root {
-    --cor-primaria: #000000;
+    --cor-primaria: #01012b;
     --cor-secundaria: #F6F6F6;
-    --cor-terciaria: #22D4FD;
+    --cor-terciaria: #22d1fd;
     --cor-hover: #272727;
 
     --fonte-primaria: 'Roboto Condensed', sans-serif;
@@ -131,5 +131,12 @@ body {
 
     .apresentacao__conteudo {
         width:auto;
+    }
+
+    .apresentacao__links__navegacao {
+        border-radius: 8px;
+        font-size: 1rem;
+        padding: 16px 0;
+        
     }
 }
