@@ -1,5 +1,3 @@
-```
-
 # PORTIFÓLIO
 ## Olá, Bem vinde ao meu projeto de portfólio desenvolvido durante o curso da Allura.
 
@@ -14,5 +12,3 @@
 * Flex-box
 
 ## Feito por: FÉRYS RAMALHO
-
-```
