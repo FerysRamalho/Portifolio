@@ -43,7 +43,7 @@ body {
 }
 
 .apresentacao {
-    padding: 3% 15%;
+    padding: 3% 15%; 
     display: flex; 
     align-items: center;
     justify-content: space-between;
@@ -92,7 +92,7 @@ body {
     width: 50%;
     text-align: center;
     border-radius: 8px;
-    font-size: 1.5rem;
+    font-size: 1.25rem;
     font-weight: 600;
     padding: 18px 0;
     text-decoration: none;
@@ -113,7 +113,7 @@ body {
     text-align: center;
     font-family: var(--fonte-secundaria);
     font-weight: 400;
-    font-size: 1.25rem;
+    font-size: 1rem;
 }
 
 @media (max-width: 1200px) {
